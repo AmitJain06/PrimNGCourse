@@ -1,0 +1,29 @@
+.div-bdy{
+    
+    min-height: 150px;
+    max-height: 150px;
+    height: 150px;
+    border: solid 1px black;
+    padding: 3px;
+}
+
+img{
+    width: 100%;
+    height: 145px;
+}
+
+.b-clr{
+    background-color: blueviolet;
+}
+
+.brn-clr{
+    background-color: brown;
+}
+
+.crn-clr{
+    background-color: cornflowerblue;
+}
+
+.csm-clr{
+    background-color: crimson;
+}
