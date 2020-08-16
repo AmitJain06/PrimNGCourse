@@ -1,2 +1,2 @@
-# PrimNGCourse
+# PrimeNGCourse
 PrimeNGCourse
